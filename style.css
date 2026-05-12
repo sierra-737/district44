@@ -5,7 +5,7 @@ body {
 /* HERO */
 .hero {
   height: 100vh;
-  background: url("../assets/download (48).jpeg") center/cover no-repeat;
+  background: url("../download (48).jpeg") center/cover no-repeat;
   position: relative;
 }
 
